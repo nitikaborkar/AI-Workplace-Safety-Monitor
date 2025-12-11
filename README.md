@@ -9,7 +9,7 @@
 🚀 Quick Start
 
 ##  Online (No Installation Needed)
-You can try the Seat Depth Analyzer instantly without installing anything:  
+You can try the SitSmart instantly without installing anything:  
 🔗 **[Click here to open the live app on Hugging Face Spaces](https://huggingface.co/spaces/nitikaborkar/seat-depth-analyser)**
 
 Features of the online version:
