@@ -2,10 +2,9 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-# Seat Depth Analyzer - Technical Documentation
+# AI Workplace Safety Monitor - Technical Documentation
 
-🪑✨ Seat Depth Analyzer
-An AI-powered computer vision application that analyzes ergonomic seating conditions from side-profile images and classifies seat pan depth as Optimal, Too Deep, or Too Short.
+🪑✨ Computer Vision for Preventing Office Injuries
 
 🚀 Quick Start
 
