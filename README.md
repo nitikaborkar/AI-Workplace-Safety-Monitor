@@ -23,8 +23,8 @@ Features of the online version:
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/nitikaborkar/Seat_Pan_Depth_Classification.git
-    cd Seat_Pan_Depth_Classification
+    git clone https://github.com/nitikaborkar/AI-Workplace-Safety-Monitor.git
+    cd AI-Workplace-Safety-Monitor
     ```
 
 2. **Install Dependencies**
@@ -47,7 +47,7 @@ Features of the online version:
     - Click **"🔍 Analyze Seat Depth"**
 ## 🎯 Project Overview
 
-The Seat Depth Analyzer is an AI-powered computer vision application that analyzes ergonomic seating conditions from side-profile images. It classifies seat pan depth as **Optimal**, **Too Deep**, or **Too Short** based on the clearance between the seat front edge and the back of the user's knee.
+The AI-Workplace-Safety-Monitor is an AI-powered computer vision application that analyzes ergonomic seating conditions from side-profile images. It classifies seat pan depth as **Optimal**, **Too Deep**, or **Too Short** based on the clearance between the seat front edge and the back of the user's knee.
 
 ### Ergonomic Classification Criteria
 - **Optimal**: 2-6 cm clearance (proper thigh support without circulation issues)
